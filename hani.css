@@ -30,7 +30,7 @@ header h1 {
 
 /* CSS */
 body {
-    background-image: url('1.jpg');
+    background-image: url('blue2.jpg');
     background-size: cover; /* Makes sure the background covers the entire body */
     background-repeat: no-repeat; /* Prevents the background from repeating */
     background-attachment: fixed; /* Keeps the background fixed when scrolling */
